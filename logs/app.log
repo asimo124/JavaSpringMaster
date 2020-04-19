@@ -4,3 +4,15 @@
 2020-04-19 13:40:51,096 INFO i.a.HelloMaven [main] hello info
 2020-04-19 13:41:27,605 INFO i.a.HelloMaven [main] hello info
 2020-04-19 13:41:27,609 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 16:04:45,005 INFO i.a.HelloMaven [main] hello info
+2020-04-19 16:04:45,009 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 16:06:50,211 INFO i.a.HelloMaven [main] hello info
+2020-04-19 16:06:50,214 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 16:08:01,997 INFO i.a.HelloMaven [main] hello info
+2020-04-19 16:08:02,000 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 16:08:35,454 INFO i.a.HelloMaven [main] hello info
+2020-04-19 16:08:35,457 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 16:08:57,323 INFO i.a.HelloMaven [main] hello info
+2020-04-19 16:08:57,325 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 16:10:31,071 INFO i.a.HelloMaven [main] hello info
+2020-04-19 16:10:31,074 DEBUG i.a.HelloMaven [main] hello debug
