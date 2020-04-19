@@ -1,0 +1,6 @@
+2020-04-19 13:39:17,730 INFO i.a.HelloMaven [main] hello info
+2020-04-19 13:39:17,733 DEBUG i.a.HelloMaven [main] hello debug
+2020-04-19 13:40:32,616 INFO i.a.HelloMaven [main] hello info
+2020-04-19 13:40:51,096 INFO i.a.HelloMaven [main] hello info
+2020-04-19 13:41:27,605 INFO i.a.HelloMaven [main] hello info
+2020-04-19 13:41:27,609 DEBUG i.a.HelloMaven [main] hello debug
